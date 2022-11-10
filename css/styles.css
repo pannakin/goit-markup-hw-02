@@ -82,7 +82,7 @@ body {
 }
 
 .order-button:hover,
-:focus {
+.order-button:focus {
   background-color: #188ce8;
 }
 
@@ -152,7 +152,7 @@ body {
 }
 
 .portfolio-button:hover,
-:focus {
+.portfolio-button:focus {
   background-color: #2196f3;
 }
 
@@ -211,6 +211,6 @@ body {
 }
 
 .footer-contacts:hover,
-:focus {
+.footer-contacts:focus {
   color: #2196f3;
 }
